@@ -79,4 +79,4 @@ body:
     validations:
       required: false
       
-  closes #123:
+  fixes: #123
