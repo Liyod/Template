@@ -1,0 +1,19 @@
+name: "💡 Video Shooting"
+description: Shooting of a product
+title: "💡 [Shoot] - <title>"
+labels: [
+  ""
+]
+body:
+  - type: textarea
+    attributes:
+      label: "What is the name of the product"
+      description: full description of the prodcut
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "What is the product all about"
+      description: what the product use for 
+    validations:
+      required: true
